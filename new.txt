@@ -1,0 +1,1 @@
+Este arquivo é do submodulo, uma biblioteca dentro do projeto mas que nao faz parte do projeto.
